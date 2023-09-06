@@ -1,5 +1,5 @@
 
-This is the webpage for the Honours/MSc course Origins and Evolution of Language, running in academic year 2023/2024 (semester 1). I will add links to materials (readings, tutorial exercises, lecture slides etc) to this page; you will need to use Learn for electronic submission of your assessed work and to keep an eye on announcements, and TBC for participation in quizzes.
+This is the webpage for the Honours/MSc course Origins and Evolution of Language, running in academic year 2023/2024 (semester 1). I will add links to materials (readings, tutorial exercises, lecture slides etc) to this page; you will need to use Learn for electronic submission of your assessed work, to keep an eye on announcements, and for participation in pre-lecture quizzes.
 
 ## Course summary
 
@@ -9,7 +9,7 @@ Note that this course has evolved over the years – the course in something lik
 
 ## The teaching team
 
-The course organiser and lecturer is [Kenny Smith](https://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in one of the lectures, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
+The course organiser and lecturer is [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in one of the lectures, see below, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
 
 Tutorials will be run by three excellent tutors: Lauren Fletcher, Maisy Hallam, and Ponrawee Prasertsom. 
 
@@ -21,34 +21,30 @@ Lectures and tutorials are both essential to doing well on the course - the lect
 
 ### Arrangements for lectures and tutorials
 
-Lectures take place on Mondays, 2.10pm-4pm, in the [TBC](https://www.ed.ac.uk/maps/maps?building=TBC). 
+Lectures take place on Mondays, 2.10pm-4pm, in [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228) Lower Teaching Hub (which might also be labelled as LG.11). 
 
-TBC You will be allocated to a tutorial group automatically. Tutorials take place at various times Wednesday to Friday, in rooms in the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283) and [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209).
+You will be allocated to a tutorial group based on information you provide us on your availability - look out for announcements on Learn about how to provide this information. Tutorials take place at various times Wednesday to Friday, in rooms in [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228), the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283), and [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209).
 
-Hopefully this goes without saying, but *do not come to lectures or tutorials if you are unwell or think you might be!* If you are unwell you can participate in lectures remotely, so you won't miss out and you'll be protecting the rest of us. Instructions on how to access live lecture streams/recordings are on the course page on Learn. If I am isolating or unwell (but still well enough lecture) we'll do the lecture remotely. There is no remote option for tutorials (but still, don't turn up if you are unwell).
+Hopefully this goes without saying, but *do not come to lectures or tutorials if you are unwell or think you might be!* If you are unwell you can participate in lectures remotely, so you won't miss out and you'll be protecting the rest of us. Instructions on how to access live lecture streams/recordings are on the course page on Learn. If I am isolating or unwell (but still well enough lecture) we'll do the lecture remotely. There is no remote option for tutorials, but still don't turn up if you are unwell.
 
 ## Assessment
 
-The course is assessed via 2 essays, due on 26th October and 14th December. Full details are provided in TBC [the assignment brief](assessment/OriginsAssignmentBrief23.pdf) and [FAQ](assessment/origins_assignment_faq.md).
+The course is assessed via 2 essays, due on 26th October and 14th December. Full details will be provided in the assignment brief (to be provided) and [FAQ](assessment/origins_assignment_faq.md).
 
 ## Quizzes
 
-TBC We will be using Top Hat for weekly reading quizzes (to allow you check you understand basic concepts in the readings, and also to flag up anything to me I need to cover in the lecture) and in-class questions (as a tool to check understanding or promote discussion).
+Each week's reading will be accompanied by a weekly reading quiz, which allows you to check you understand basic concepts in the readings, and also to flag up anything to me I need to cover in the lecture. We will also do in-class questions (as a tool to check understanding or promote discussion).
 
 
 ### Reading Quizzes
 
-TBC FOR QUIZ METHOD In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes on Top Hat (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). To access the reading quizzes:
+In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes prior to the Monday lectures (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). Instructions on how to access the reading quizzes will be provided shortly.
 
-
-TBC UPDATE THIS TO POINT TO FEEDBACK **The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. As far as possible I have made it so your responses are anonymous, so you don't even have to be worried about being sheepish if you get one wrong. The only place this isn't the case is the free-form comments - for some reason I can't make those anonymous, so don't fill them with obscenities, I'll know it's you.
+**The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. People who answer the questions will also get to see my notes on how I would answer those questions, and any additional thoughts I have; where appropriate I will also provide a little comment on your answer.
 
 ### In-class quizzes
 
-TBC I will also use Top Hat to get you to answer multiple-choice questions in class. To answer those questions:
-- [Log into Top Hat](https://app-ca.tophat.com/) and select the course “Origins and Evolution of Language 2022/2023”
-- Navigate to the "Classroom" tab
-- Answer questions there as they appear
+We will use multiple-choice questions in class to stimulate discussion - platform for these is to be announced.
 
 ## Course Materials
 
@@ -56,30 +52,30 @@ Course content will appear here as we work through the course - I will put mater
 
 Each week there will be two sets of readings: one associated with the lecture, and another for the tutorial.  
 
-Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. **The lecture readings for the first few weeks arew from Fitch and are quite substantial, but reduces later in the course.** I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – I will assume you have done in class, and you’ll have to talk about them. As mentioned above, in order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class.
+Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. **The lecture readings for the first few weeks arew from Fitch and are quite substantial, but the volume of lecture prep reading reduces later in the course.** I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – I will assume you have done in class, and you’ll have to talk about them. As mentioned above, in order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class.
 
-For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials. Tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers, and get some practice critically evaluating research in language evolution. For some weeks these tutorials will be organised as debates, where you are asked to read papers making conflicting claims and then debate the merits of the two approaches with your classmates.
+For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials. Tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers, and get some practice critically evaluating research in language evolution. For some weeks you will be asked to read papers that make conflicting claims and then use the tutorial time to debate the merits of the two approaches with your classmates.
 
 ### Week 1 (commencing 18th September): Introduction
 
 - No pre-lecture reading this week, but optionally you can read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. There is lots to read in subsequent weeks, so if you are looking for something to do then make a start on that!
-- [Lecture slides](slides/origins_lecture_wk1.pdf)
+- Lecture slides to appear
 - No tutorial this week
 
 ### Week 2 (25th September): Natural selection, adaptation, and the evolution of language
 
 - [Lecture pre-reading](origins_reading_wk2.md)
-- [Lecture slides](slides/origins_lecture_wk2.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk2.md)
 
 ### Week 3 (2nd October): Intention and structure in animal communication
 - [Lecture pre-reading](origins_reading_wk3.md)
-- [Lecture slides](slides/origins_lecture_wk3.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (9th October): Social learning and cumulative cultural evolution
 - [Lecture pre-reading](origins_reading_wk4.md)
-- [Lecture slides](slides/origins_lecture_wk4.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk4.md)
 
 ### Week 5 (16th October)
@@ -87,29 +83,28 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 No classes this week - the first assignment is due on the Thursday of the following week (26th October), so you can use the time to work on that.
 
 ### Week 6 (23rd October): Evolution of speech, vocal learning
-TBC fix numbering here
-- [Lecture pre-reading](origins_reading_wk5.md)
-- [Lecture slides](slides/origins_lecture_wk5.pdf)
-- [Tutorial reading and instructions](origins_tutorial_wk5.md)
+- [Lecture pre-reading](origins_reading_wk6.md)
+- Lecture slides to appear
+- [Tutorial reading and instructions](origins_tutorial_wk6.md)
 
 ### Week 7 (30th October): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk7.md)
-- [Lecture slides](slides/origins_lecture_wk7.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk7.md)
 
 ### Week 8 (6th November): Cultural evolution of language
 - [Lecture pre-reading](origins_reading_wk8.md)
-- [Lecture slides](slides/origins_lecture_wk8.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk8.md)
 
 ### Week 9 (13th November): Sign language as a window into language origins
 - [Lecture pre-reading](origins_reading_wk9.md)
-- [Lecture slides](slides/origins_lecture_wk9.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk9.md)
 
 ### Week 10 (20th November): Gene-culture co-evolution
 - [Lecture pre-reading](origins_reading_wk10.md)
-- [Lecture slides](slides/origins_lecture_wk10.pdf)
+- Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk10.md)
 
 
