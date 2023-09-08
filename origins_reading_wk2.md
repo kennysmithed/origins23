@@ -3,7 +3,7 @@ title: Week 2 reading
 description: Introduction to evolutionary theory
 ---
 
-*Once you have worked through the reading, don’t forget to do the pre-lecture quiz – instructions are on the main page, under "Quizzes", and also on Learn.*
+*Once you have worked through the reading, don’t forget to do the pre-lecture quiz on Learn.*
 
 *Reminder: The lecture readings for the first few weeks are quite substantial, but the volume of the lecture readings reduces later in the course.* 
 

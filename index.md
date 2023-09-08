@@ -29,22 +29,21 @@ Hopefully this goes without saying, but *do not come to lectures or tutorials if
 
 ## Assessment
 
-The course is assessed via 2 essays, due on 26th October and 14th December. Full details will be provided in the assignment brief (to be provided) and [FAQ](assessment/origins_assignment_faq.md).
+The course is assessed via 2 essays, due on 26th October and 14th December. Full details will be provided in the assignment brief (to follow) and [FAQ](assessment/origins_assignment_faq.md).
 
 ## Quizzes
 
-Each week's reading will be accompanied by a weekly reading quiz, which allows you to check you understand basic concepts in the readings, and also to flag up anything to me I need to cover in the lecture. We will also do in-class questions (as a tool to check understanding or promote discussion).
-
+Each week's lecture reading will be accompanied by a reading quiz, which allows you to check you understand basic concepts in the readings, and also to flag up anything to me I need to cover in the lecture. We will also do in-class questions (as a tool to check understanding or promote discussion).
 
 ### Reading Quizzes
 
-In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes prior to the Monday lectures (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). Instructions on how to access the reading quizzes will be provided shortly.
+In order to encourage you to complete the reading and to allow you (and me) to check whether you actually understood it, you need to complete weekly reading quizzes prior to the Monday lectures (starting in week 2). Quizzes will open as soon as I have written them (I'll get them all up as fast as I can) and close at 1pm on the day of the lecture they go with (e.g. the quiz for the week 2 lecture will close at 1pm on Monday of week 2, 1 hour before the lecture). You can access the reading quizzes on Learn, through the link "Pre-lecture quizzes".
 
 **The quiz is not assessed and does not contribute to your mark for the course**. It's just intended to help you learn stuff, which is what the course is for. People who answer the questions will also get to see my notes on how I would answer those questions, and any additional thoughts I have; where appropriate I will also provide a little comment on your answer.
 
 ### In-class quizzes
 
-We will use multiple-choice questions in class to stimulate discussion - the platform for these is to be announced.
+We will use multiple-choice questions in class to stimulate discussion - we will use wooclap for these. To particpate during the lectures go to [wooclap.com](wooclap.com) and enter the event code provided.
 
 ## Course Materials
 
