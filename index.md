@@ -5,7 +5,7 @@ This is the webpage for the Honours/MSc course Origins and Evolution of Language
 
 We will review current theories which attempt to explain how and why human language evolved, covering both the biological evolution of the human capacity for language, and cultural evolution of languages themselves. Modern evolutionary linguistics is a highly interdisciplinary field, and we will touch on the basics of evolutionary biology, animal communication and animal cognition, fieldwork on emerging sign languages, and computational models and experimental studies of language evolution pioneered here in Edinburgh, among other topics. No prior knowledge of these areas is assumed.
 
-Note that this course has evolved over the years – the course in something like its current form was originally written by Kenny Smith, based on a preceding course created by [Jim Hurford](http://www.lel.ed.ac.uk/~jim/), and contributions and modifications have been made by [James Winters](https://j-winters.github.io), [Marieke Schouwstra](https://mariekeschouwstra.github.io), [Christine Cuskley](https://ccuskley.github.io) and [Matt Spike](https://www.pyowhack.com).
+Note that this course has evolved over the years - the course in something like its current form was originally written by Kenny Smith, based on a preceding course created by [Jim Hurford](http://www.lel.ed.ac.uk/~jim/), and contributions and modifications have been made by [James Winters](https://j-winters.github.io), [Marieke Schouwstra](https://mariekeschouwstra.github.io), [Christine Cuskley](https://ccuskley.github.io) and [Matt Spike](https://www.pyowhack.com).
 
 ## The teaching team
 
@@ -21,7 +21,7 @@ Lectures and tutorials are both essential to doing well on the course - the lect
 
 ### Arrangements for lectures and tutorials
 
-Lectures take place on Mondays, 2.10pm-4pm, in [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228) Lower Teaching Hub (which might also be labelled as LG.11). 
+Lectures take place on Mondays, 2.10pm-4pm, in [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228) Room LG.09 (it's in the basement). 
 
 You will be allocated to a tutorial group based on information you provide us on your availability - look out for announcements on Learn about how to provide this information. Tutorials take place at various times Wednesday to Friday, in rooms in [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228), the [Dugald Stewart Building](https://www.ed.ac.uk/maps/maps?building=0283), and [7 George Square](https://www.ed.ac.uk/maps/maps?building=0209).
 
