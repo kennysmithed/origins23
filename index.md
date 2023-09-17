@@ -65,7 +65,7 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 - [Lecture pre-reading](origins_reading_wk2.md)
 - Lecture slides to appear
-- Tutorial reading and instructions to appear
+- [Tutorial reading and instructions](origins_reading_wk2.md)
 
 ### Week 3 (2nd October): Intention and structure in animal communication
 - [Lecture pre-reading](origins_reading_wk3.md)
