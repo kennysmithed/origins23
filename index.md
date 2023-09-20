@@ -69,7 +69,7 @@ There are no classes in week 2 due to strike action.
 
 - [Lecture pre-reading](origins_reading_wk3.md)
 - Lecture slides to appear
-- [Tutorial reading and instructions](origins_reading_wk3.md)
+- [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (9th October): Intention and structure in animal communication
 - [Lecture pre-reading](origins_reading_wk4.md)
