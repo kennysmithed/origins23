@@ -14,7 +14,8 @@ The other thing you have to do in this tutorial is agree a rota for who will rea
 - Pinker argues that language is an adaptation. What does that mean? What does he think it's an adaptation for?
 - What kinds of arguments and evidence does he use to support his case?
 - What kinds of alternative hypotheses does he consider? Are you satisfied with his grounds for dismissing them?
-- How does what he is saying fit into the FLN vs FLB distinction employed by Fitch? - What use does he make of the kind of comparative data that Fitch emphasises?
+- How does what he is saying fit into the FLN vs FLB distinction employed by Fitch? 
+- What use does he make of the kind of comparative data that Fitch emphasises?
 - Why does he briefly touch on altruism? Why might that be relevant to thinking about language evolution? How does he deal with that problem?
 - Why does he make a big deal about the idea that language involves many genes?
 - Do you buy his argument? What are the convincing points? What are the weaknesses?
