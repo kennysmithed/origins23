@@ -1,63 +1,99 @@
 ---
 title: Week 4 pre-lecture reading
-description: Human evolution
+description: Animal Cognition and Communication
 ---
-
-This week we're reading Chapter 7 (pages 250-293) of Fitch (2010) ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). 
 
 *As usual, read this blog, do the Fitch reading, and then take the quiz on Learn to test your understanding.*
 
+*Reminder: The lecture readings for the first few weeks are quite substantial, but the volume of the lecture readings reduces later in the course.* 
 
 ## About the reading
 
-Chapter 7 tells the (as of 2010) story of human evolution, focusing on our trajectory since our last common ancestor with chimpanzees. And, as with most evolutionary stories, the tale from early australopithecines to modern *Homo sapiens* is a messy one: far from being a steady, obvious, unbroken chain, human evolution is littered with false starts and dead ends, with most of our species' history having been spent alongside a variety of closely-related hominids. If you want to see some pictures or a slightly more user-friendly graphical depiction of the human family tree, check out [The Smithsonian's interactive family tree](http://humanorigins.si.edu/evidence/human-family-tree).
+This week's main reading, **Chapter 4 of Fitch (2010)** (pages 143-202), surveys the various cognitive abilities and communication systems on offer in the animal world ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). In particular, Fitch discusses experimental evidence, and how the differences and similarities between humans and other animals can shed light on the evolution of language.
 
-In this chapter, Fitch draws upon three main sources of evidence: *fossil*, *archaeological*, and *genetic*.
+*NB. Fitch refers several times to Mitteilungsbedurfnis, which is defined in Chapter 3, which you haven't been asked to read but which I talked about in class. This is a German word referring to the tendency to share our thoughts and feelings with others*
 
-The first major conclusion from the fossil record is that bipedalism arose relatively early on: from what we can ascertain, thanks to hints from recovered skeletons and the famous [Laetoli footprints](https://en.wikipedia.org/wiki/Laetoli), it appears australopithecines were standing (somewhat) upright round 3.6 million years ago. However, australopithecines and other early hominids were relatively small-brained, which leads us to the second main conclusion: that substantial changes to cranial capacity did not occur until *Homo erectus* came onto the scene approximately 1.9 million years ago. But, as Fitch notes, cranial capacity is not always indicative of more sophisticated behaviour -- and we should be cautious when making such interpretations.
+## Animal Cognition
 
-The arrival of *Homo erectus* also coincides with substantial changes in the archaeological record: it is during the time of *Homo erectus* that we observe the transition from the Oldowan to the Acheulean mode of production. The Acheulean tool industry would last for a million years and it is not until the arrival of Neanderthals around 300,000 years ago that we see any substantial changes in this technology. The next major industry that Fitch discusses is the Aurignacian. Also known as the Upper Paleolithic Revolution, the Aurignacian is closely linked with the spread of modern humans around 40,000 years ago, and is marked by the appearance of sophisticated artwork and diversification in tool industries.
+Fitch begins with a whirlwind tour of cognitive abilities in animals, such as memory, planning and inference, before moving on to discuss tool use, social intelligence, and animal culture. The general conclusion is that nonhuman animals demonstrate an impressive array of complex cognitive abilities. This has two important implications. First, much of this sophisticated cognition is possible in the absence of language. Second, many capabilities which were previously thought to be uniquely human, such as the use and manufacture of tools, have since been found in nonhuman animals.
 
-Paleogenetic data is one of the major success stories in this chapter. Fitch discusses how genetic data is useful in providing clarity on several issues, including dating our last common ancestor with chimpanzees, the possibility of interbreeding between Neanderthals and anatomically modern humans, and the hunt for genetic variants underpinning our cognitive and neurological anatomy. And as we shall see below, genetic evidence is playing an increasingly important role, especially as technology improves in extracting and sequencing genomes from extinct species.
+The clip below shows a chimpanzee using stone tools to crack open nuts, demonstrating fine motor control and planning:
 
-Taken together, these three lines of evidence offer a compelling story about human evolution, providing insights into when hominids first began to walk upright and lose their thick hair to the shift toward a meat-based diet and the increased reliance on a material culture. Yet, despite considerable advances in what we know about human evolution, the long-standing debates surrounding when and how language emerged remain largely unsolved. As it currently stands, the available evidence has been argued to be consistent with the relatively early emergence of language in *Homo erectus*, or **extremely** late in modern *Homo sapiens*, with there being many proponents on both sides of the debate. In short, there is still a lot we don't know.
-
-## The mystery of behavioural modernity
-
-One of the big mysteries Fitch presents is the gap between the emergence of morphologically modern humans and the approximately 100,000 year gap until the Upper Paleolithic Revolution. One hypothesis is that the gap represents a genuine change in the fundamental makeup of human cognition. That is to say: while early *Homo sapiens* had bodies which looked remarkably human, their brains were fundamentally different. After all, there is no biological reason to suspect that changes in cognition are concomitant with changes in skeletal morphology. Fitch raises an interesting parallel with that of modern songbirds: despite having very similar skeletal forms, songbirds vary considerably both genetically and behaviourally (a nice example is the differences between [white-rumped munias and a domesticated variety known as the Bengalese Finch](http://link.springer.com/article/10.1007/s10336-015-1283-5)).
-
-There are other hypotheses that Fitch does not mention. For instance, one interesting possibility is that changes in demography allowed humans to sustain more advanced levels of technology (see [Richerson, Boyd & Bettinger, 2009](http://www.ncbi.nlm.nih.gov/pubmed/19943744); [Lycett & Norton, 2010](http://www.sciencedirect.com/science/article/pii/S1040618208003479)). Under this hypothesis, demography influences cultural evolution through its effects on the rate of innovation. Assuming that useful innovations are rare, then small isolated populations will have low rates of invention, whereas larger and denser populations will have higher rates of invention. As such, increases in population size might allow for greater levels of cumulative cultural learning, with large and dense populations being better equipped to mitigate against the loss of innovations in skills and abilities. Conversely, smaller populations are more susceptible to losing new innovations as they pop up, decreasing the probability of them being successfully transmitted from one generation to the next.
-
-## Since 2010
-
-Since Fitch first published his book in 2010 there have been some major breakthroughs in study of human evolution. Many of you might be aware of the two new additions to the *Homo* lineage: *[Denisovans](https://en.wikipedia.org/wiki/Denisovan)* and *[Homo naledi](https://en.wikipedia.org/wiki/Homo_naledi)*. The picture has also changed somewhat in terms of genetic evidence. Another exciting discovery is that it seems Neanderthals and Denisovans interbreed with modern humans: [an estimated 1.5-2.1% of the Eurasian genome is believed to be derived from Neanderthals](http://www.nature.com/nature/journal/v505/n7481/full/nature12886.html), and the remains of a (probably sterile) [individual with a Neanderthal mother and a Denisovan father were discovered in Russia](https://www.nature.com/articles/s41586-018-0455-x). And [the arrival of modern humans has been implicated in the extinction of *Homo floresiensis*](https://en.wikipedia.org/wiki/Homo_floresiensis#Extinction), also known as "Flores Man" or "hobbits".
-
-For information on Neanderthals and Denisovans, you could watch these videos by [John Hawks](https://en.wikipedia.org/wiki/John_D._Hawks) (a paleoanthropologist who was involved in the discovery of *Homo naledi* and has written a considerable amount on Neanderthal-human admixture):
-
+<!-- [embed]https://www.youtube.com/watch?v=2N34Fcn3J00[/embed] -->
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/5OVRLKI0MK4"
+src="https://www.youtube.com/embed/2N34Fcn3J00"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
+These impressive abilities are not only found in species which are closely related to humans. The second clip shows problem solving by a crow: crows are able to use their impressive capacities for memory, planning, innovation and reasoning to complete the task of retrieving an item of food.
+
+<!-- [embed]https://www.youtube.com/watch?v=AVaITA7eBZE[/embed] -->
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/UTe6vEyhULI"
+src="https://www.youtube.com/embed/AVaITA7eBZE"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
-## References
 
-Fitch, W. T. (2010). *The Evolution of Language*. Cambridge: Cambridge
-University Press.
+Humans and other animals are also flexible vocal learners. One of the most entertaining examples is the Lyrebird, which is hilariously brilliant at mimicking the sounds in their environment:
 
-Lycett, S., & Norton, C. (2010). A demographic model for Palaeolithic
-technological evolution: The case of East Asia and the Movius Line.
-*Quaternary International*, 211, 55-65.
+<!-- [embed]https://www.youtube.com/watch?v=mSB71jNq-yQ[/embed] -->
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/mSB71jNq-yQ"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
-Richerson, P.J., Boyd, R., & Bettinger, R.L. (2009). Cultural
-innovations and demographic change. *Human biology*, 81, 211-35.
+## Animal Communication
+
+In contrast to the rich internal cognitive world of animals, Fitch argues that their communication systems are relatively impoverished when compared to language. Still, even though we know of no other animal with a communication system provoiding the expressive power offered by all human languages, the communication systems we observe show a great degree of variety in their richness and complexity. For instance, the bengalese finch is capable of producing song with relatively elaborate structures, but which is restricted in its function and lacks propositional content:
+
+<!-- [embed]https://www.youtube.com/watch?v=rozh349EZWA[/embed] -->
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/rozh349EZWA"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+Vervet monkeys use three distinct alarm calls to refer to different predators (see video below). In fact alarm calling systems that work like this are fairly common in the natural world - vervets were the first species for which this was conclusively demonstrated (using an ingenious playback method, where experimenters played them recordings of alarm calls in the absence of predators and watched how they responded), which is why everyone uses them as an example, but they are by no means unique (for instance, chickens have an aerial vs terrestrial predator alarm calling system).
+
+<!-- [embed]https://www.youtube.com/watch?v=q8ZG8Dpc8mM[/embed] -->
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/q8ZG8Dpc8mM"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+We also find impressive communicative abilities in some rather surprising organisms. Consider the waggle dance of the honeybee and its ability to convey information about something not currently present (aka [displacement](https://en.wikipedia.org/wiki/Displacement_(linguistics)), one of Hockett's *design features* of language:
+
+<!-- [embed]https://www.youtube.com/watch?v=-7ijI-g4jHg[/embed] -->
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/-7ijI-g4jHg"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+Kanzi, a bonobo (one of two extant species of chimpanzee, the other being the better-known common chimpanzee) raised in captivity, has mastered a large number of arbitrary symbols and can match these symbols with real-world referents:
+
+<!-- [embed]https://www.youtube.com/watch?v=wRM7vTrIIis[/embed] -->
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/wRM7vTrIIis"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+Kanzi's use of arbitrary symbols is just one of his many abilities that are beyond anything we observe in wild bonobos and highlights how different environments can unmask latent cognitive abilities. Like some of the other animals in this section, Kanzi's impressive knowledge of vocabulary hints at abilities which are necessary pre-conditions for mastery of language. But Fitch considers language to be fundamentally distinct in two aspects.
+
+First, human language is highly **expressive:** it allows us to convey practically any thought that pops into our heads and converse on a range of topics far far larger anything we've witnessed in nonhuman animals. Indeed, animal communication appears to be tailored for very specific needs, such as predator warnings and mating. Second, nonhuman animals are capable of some pretty impressive feats of observing and interpreting the behaviour of others, but they lack the ability to fulfil the second half of what Fitch terms the Gricean contract: to use this knowledge about behaviour to **intentionally inform** other individuals (although some more recent evidence, which I will discuss in the lecture, challenges this).
+
+To wrap up the chapter, Fitch considers why humans are unique in these two respects. The central point is that there are considerable evolutionary barriers to achieving a cheap and honest communication system like language. One of the goals in studying the evolution of language is to try and investigate the circumstances under which humans overcame these limitations.
+
+## Additional Notes
+In addition to these general conclusions, there are three points Fitch raises that you should keep in mind when reading:
+
+**Be cautious when interpreting animal behaviour:** You will see many instances in the chapter where human researchers have over-interpreted or indeed under-interpreted the capacities of nonhuman animals.
+
+**Evolution is not goal-directed:** Evolution is a blind process that does not have any particular goals in mind. So, when thinking about animal cognition and communication, there is nothing to say that evolution is working toward increasingly complex behaviours (or increasingly human-like behaviours). As Fitch notes, there is considerable evidence that counters the view of an evolutionary ladder, with organisms forming a linear progression from least to most complex.
+
+**Descent and Convergence:** The comparative method is a useful tool for elucidating cases of homology and analogy in cognitive and communicative abilities. Employing this method can tell us what features we share with other species because they were present in our last common ancestor (homology, or similarity through descent from a common ancestor) and under what environmental conditions do certain features evolve (analogies, produced by convergent evolution).
+
+## Reference
+Fitch, W. T. (2010). *The Evolution of Language*. Cambridge: Cambridge University Press.
 
 ## Re-use
-
-*This blog post was originally written by James Winters.*
 
 All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

@@ -1,23 +1,15 @@
 ---
-title: Week 8 tutorial briefing
-description: Biological and cultural evolution in the evolution of language
+title: Week 7 tutorial briefing
+description: Social cognition, evolved or learned?
 ---
 
-This week you are going to be debating the role of biological and cultural evolution in the evolution of language. It's a big topic, and the readings I am setting are also a bit bigger than in previous tutorials: two articles in Behavioral and Brain Sciences, which publishes lengthy review/opinion pieces plus a bunch of "peer commentaries", basically little notes by other academics. I just want you to read the main article (which is about 20 pages long in both cases), you don't need to wade through all the commentaries and the author responses.
+This week’s reading and lecture were on the topic of the evolution of social cognition, and in particular the relationship between ‘mind reading’ and language. For the tutorial this week we’d like you to think a bit more about where the human capacity for mind reading, and social cognition more generally, come from. As we have attempted in previous weeks, we'll run this as a debate. Team 1 are going to read a short paper presenting data which they interpret as showing that humans have “evolved some specialized social-cognitive skills (beyond those of primates in general) for living and exchanging knowledge in cultural groups: communicating with others, learning from others, and ‘reading the mind’ of others in especially complex ways” (Herrmann et al., 2007, p. 1365), i.e. that our social intelligence is underpinned by specialized biological adaptations in the mind. Team 2 are going to read a review article arguing that human mind-reading capacities are themselves socially learnt, rather than necessarily an evolved mental module. It’s up to you whether you frame this tutorial as an adversarial debate, or instead take it in turns to describe the paper you read in your team, describe it to the other group, and discuss strengths, weaknesses, and the issues raised more generally – I think the positions in these two papers aren’t necessarily conflicting, or not completely conflicting, but you might disagree.
 
-Team 1 will read the classic 1990 article by Steve Pinker and Paul Bloom, arguing that language is a biological adaptation for communication, i.e. the story of language evolution is primarily a story about the biological evolution of the language faculty. This article is pretty old now, and some features will hopefully seem a bit odd to you - there's no comparative data considered, for instance - but it's still a great read.
+The readings are below – as usual, these should be freely accessible from these links if you are on the University network. They are short, so read at least one team's allocation. but ideally both.
 
-Team 2 will read a more recently article by Morten Christiansen and Nick Chater, arguing that the main factor in the evolution of language has been cultural evolution of languages, rather than biological evolution of the language faculty - language has adapted to us, rather than us adapting to have language. The field has also moved on a bit since 2008 - all the experimental work I will talk about in the lecture came out after this article - but it's still a good overview article of what a cultural evolutionary account might look like.
+Team 1: [Herrmann, E., Call, C., Hernandez-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: the cultural intelligence hypothesis. <i>Science, 317</i>, 1360-1366.](http://www.sciencemag.org/content/317/5843/1360.full.pdf)
 
-As usual, read the articles, discuss the most persuasive points (given the length of the papers you'll have to be quite focussed), duke it out for a bit, then see if you can agree on what the important points are, what evidence we can use to evaluate them, and what you think the correct balanced view is.
-
-You will need to be on the University network to access these papers via the direct links below.
-
-Team 1: [Pinker, S., & Bloom, P. (1990). Natural language and natural selection. <i>Behavioral and Brain Sciences, 13,</i> 707-784.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/natural-language-and-natural-selection/CDD84686D58AF70E3D2CB48486D7940B) [but the article itself is only 20 pages]
-
-Team 2: [Christiansen, M. H., & Chater, N. (2008). Language as shaped by the brain. <i>Behavioral and Brain Sciences, 31,</i> 489-558.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/language-as-shaped-by-the-brain/EA4ABB50915417A1A10569707F574F5E) [but the article itself is only 20 pages]
-
-
+Team 2: [Heyes, C. M., & Frith, C. D. (2014). The cultural evolution of mind reading. <i>Science, 344</i>, 1243091.](https://www.science.org/doi/pdf/10.1126/science.1243091?siteid=sci&keytype=ref&ijkey=3ZSpKAWpRHVbg) You can also to listen to [a short podcast about this article.](https://users.ox.ac.uk/~ascch/Podcasts/Heyes%20CEMR%20podcast.mp3), or [Celia Heyes' plenary at CogSci 2020](https://www.youtube.com/watch?v=fTxK2RDotrg).
 
 ## Re-use
 

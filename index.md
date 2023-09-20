@@ -61,18 +61,17 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 - [Lecture slides](slides/origins_lecture_wk1.pdf)
 - No tutorial this week
 
-### Week 2 (25th September): Natural selection, adaptation, and the evolution of language
+### Week 2 (25th September): No classes
 
-- [Lecture pre-reading](origins_reading_wk2.md)
-- Lecture slides to appear
-- [Tutorial reading and instructions](origins_reading_wk2.md)
+There are no classes in week 2 due to strike action.
 
-### Week 3 (2nd October): Intention and structure in animal communication
+### Week 3 (2nd October): Natural selection, adaptation, and the evolution of language
+
 - [Lecture pre-reading](origins_reading_wk3.md)
 - Lecture slides to appear
-- Tutorial reading and instructions to appear
+- [Tutorial reading and instructions](origins_reading_wk3.md)
 
-### Week 4 (9th October): Social learning and cumulative cultural evolution
+### Week 4 (9th October): Intention and structure in animal communication
 - [Lecture pre-reading](origins_reading_wk4.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
@@ -81,28 +80,33 @@ For the tutorials you will be asked to read one or more journal papers/book chap
 
 No classes this week - the first assignment is due on the Thursday of the following week (26th October), so you can use the time to work on that.
 
-### Week 6 (23rd October): Evolution of speech, vocal learning
+### Week 6 (23rd October): Social learning and cumulative cultural evolution
 - [Lecture pre-reading](origins_reading_wk6.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 
-### Week 7 (30th October): Evolution of social cognition
+### Week 7 (30th October): Evolution of speech, vocal learning
 - [Lecture pre-reading](origins_reading_wk7.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 
-### Week 8 (6th November): Cultural evolution of language
+### Week 8 (6th November): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk8.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 
-### Week 9 (13th November): Sign language as a window into language origins
+### Week 9 (13th November): Cultural evolution of language
 - [Lecture pre-reading](origins_reading_wk9.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 
-### Week 10 (20th November): Gene-culture co-evolution
-- [Lecture pre-reading](origins_reading_wk10.md)
+### Week 10 (20th November): Sign language as a window into language origins
+- Lecture pre-reading to appear
+- Lecture slides to appear
+- Tutorial reading and instructions to appear
+
+### ### Not taught due to loss of time through strike action:  Gene-culture co-evolution
+- [Lecture pre-reading](origins_reading_wkna.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 

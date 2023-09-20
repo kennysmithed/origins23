@@ -1,26 +1,23 @@
 ---
 title: Week 9 pre-lecture reading
-description: Sign language as a window into language origins
+description: Cultural evolution of language
 ---
 
-*No quiz this week since I won't be able to provide feedback.*
+*As usual, read this blog, do the reading, and then take the quiz on Top Hat to test your understanding.*
 
-Most human languages can trace an unbroken chain of transmission stretching back many thousands of years. However, for some individuals, and in some communities, this chain of language transmission is broken, and new languages form in response to the communicative and social needs of the members of those communities, a kind of [natural experiment](https://en.wikipedia.org/wiki/Natural_experiment) which potential provides unique insights into the origins of language. The emergence of new sign languages provides a striking example of language creation. Deaf individuals cannot access the spoken language of their community, and in many communities, hearing people lack knowledge of existing signed languages; deaf children therefore have no access to a language model. However, when deaf individuals are brought together in stable communities, new sign languages emerge. Newly emergent sign languages have been discovered and documented world-wide - [Nicaraguan Sign Language](https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language) is one celebrated example, but there are numerous other cases, including in [Israel](https://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language), [Ghana](https://en.wikipedia.org/wiki/Adamorobe_Sign_Language), [Indonesia](https://en.wikipedia.org/wiki/Kata_Kolok) and [Turkey](https://en.wikipedia.org/wiki/Central_Taurus_Sign_Language). 
+In this lecture I’ll discuss how a symbolic, phonemic, compositional language can emerge as a result of cultural transmission (providing a reminder and a bit more detail on stuff I said in week 1, and focussing on experimental paradigms we pioneered here in Edinburgh), and link this to the process of grammaticalisation studied in historical linguistics. 
 
-The reading for this week would have been [Senghas (2005)](https://doi.org/10.1016/j.cub.2005.06.018), which provides a brief summary of the circumstances in which new sign languages emerge, and some interesting thoughts on critical social factors in the creation of new sign languages. The author, [Ann Senghas](https://barnard.edu/profiles/ann-senghas), does important work on Nicaraguan Sign Language, another celebrated case of the creation of a new language in real time. 
+I’d like you to read two short journal articles: [Kirby, Cornish & Smith (2008)](http://www.lel.ed.ac.uk/~kenny/publications/kirby_08_cumulative.pdf), which was our original paper on iterated artificial language learning (you may well already have read it, we are pleased with it so set it as reading all over the place), and [Smith (2022)](https://doi.org/10.1177/09637214211068127), a short review article summarising the key ideas in this literature. If you’d like some fun videos to watch, you can check out the Horizon episode “Why do we talk?” – the whole thing used to be on YouTube but has now been removed, so you can check it out on Learn. Jump to 50:27 to see a mocked-up (slightly inaccurate) for-TV re-enactment of Experiment 2 from our 2008 paper, and jump back to 36:50 for a similar experiment run in zebra finches by [Dr Olga Fehér](https://sites.google.com/site/olcifeher/).  Or you can see me (and Suilin Lavelle) banging on about cultural evolution (and beavers, for reasons that now escape me) in [an online lecture on YouTube](https://www.youtube.com/playlist?list=PLKuMaHOvHA4or3BrLYeoUk43ip7GBaaMv) we filmed back in the day.
 
-If you want a fairly detailed but manageable primer on sign language, both from a structural and cognitive perspective, you could check out [Sandler & Lillo-Martin (2017)](https://doi.org/10.1002/9781119072256.ch18). 
-
-Both articles are available on the University network.
 
 ## References
 
+[Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proceedings of the National Academy of Sciences, USA, 105, 10681-10686.](http://www.lel.ed.ac.uk/~kenny/publications/kirby_08_cumulative.pdf)
 
-[Sandler, W. and Lillo-Martin, D. (2017). Sign Languages. In M. Aronoff and J. Rees-Miller (Eds.) <i>The Handbook of Linguistics</i> (pp. 371-396). Oxford: Blackwell.](https://doi.org/10.1002/9781119072256.ch18)
-
-[Senghas, A. (2005). Language Emergence: Clues from a New Bedouin Sign Language. <i>Current Biology, 15,</i> R463-R465.](https://doi.org/10.1016/j.cub.2005.06.018)
+[Smith, K. (2022). How language learning and language use create linguistic structure. Current Directions in Psychological Science, 31, 177-186.](https://doi.org/10.1177/09637214211068127) You will need to be on the University network to access this, or you can look at [a less prettily-formatted preprint](https://psyarxiv.com/qbdsv/).
 
 
 ## Re-use
+
 
 All aspects of this work are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

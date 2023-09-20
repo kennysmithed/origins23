@@ -1,98 +1,117 @@
 ---
-title: Week 3 pre-lecture reading
-description: Animal Cognition and Communication
+title: Week 3 reading
+description: Introduction to evolutionary theory
 ---
 
-*As usual, read this blog, do the Fitch reading, and then take the quiz on Learn to test your understanding.*
+*Once you have worked through the reading, don’t forget to do the pre-lecture quiz on Learn.*
 
 *Reminder: The lecture readings for the first few weeks are quite substantial, but the volume of the lecture readings reduces later in the course.* 
 
+## Overview
+
+There is quite a lot of reading this week, in order to get you up to speed on the basics of evolutionary theory - I will provide a very quick summary of some key points in the lecture, and also talk about how these ideas might apply to the evolution of language. In addition to reading the text here, I want you to read chapters 1 and 2 (pages 13-72) of Fitch (2010).  [Tecumseh Fitch](http://homepage.univie.ac.at/tecumseh.fitch/) is a biologist and cognitive scientist based in Vienna, and has been a leading figure in evolutionary linguistics for the last 20 years or so. We will be using readings from his book throughout the course. It provides an excellent introduction to evolutionary linguistics – it’s very much Fitch’s personal perspective on the evolution of language, and while I don’t agree with all of it, his evidence-based approach to asking evolutionary questions about language has to be the correct one. The books is available electronically [via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466) (I use the Cambridge University Press Ebooks link), if you want a physical copy the book is on reserve in the HUB section of the main library, or you could buy a copy.
+
+
 ## About the reading
 
-This week's main reading, **Chapter 4 of Fitch (2010)** (pages 143-202), surveys the various cognitive abilities and communication systems on offer in the animal world ([available online via DiscoverEd](https://discovered.ed.ac.uk/permalink/44UOE_INST/7g3mt6/alma9922363073502466)). In particular, Fitch discusses experimental evidence, and how the differences and similarities between humans and other animals can shed light on the evolution of language.
+Chapter 1 provides a brief outline of what it means to study "the evolution of language", and highlights some of the major topics and debates in the field. Chapter 2 provides a very brief introduction to
+the basics of evolutionary biology (natural selection, and also a little bit on genetics, molecular biology, development) -- the introduction to the basic ideas is extremely clear and readable, but much of this chapter focusses on debates in evolutionary biology that might be a bit obscure if you only just found out what natural selection is. The full chapter is worth reading anyway, and the latter sections on adaptation and constraints on adaptation are very useful, but to help you out I have provided some additional notes below on the basics of adaptation and natural selection, on the comparative method, and on cultural evolution. These should help you to digest chapter 2, particularly section 2.3 onward, so read my notes before you read Fitch chapter 2.
 
-*NB. Fitch refers several times to Mitteilungsbedurfnis, which is defined in Chapter 3, which you haven't been asked to read but which I talked about in class. This is a German word referring to the tendency to share our thoughts and feelings with others*
+In addition to the details, I think there are several important themes that Fitch touches on that will crop up later in the course, so watch out for these.
 
-## Animal Cognition
+First, he constantly talks about the importance of **data**. Evolutionary linguistics has at times had a bad reputation for being somewhat (or entirely) speculative. In this course, we will focus on thinking about the kinds of data we need to test hypotheses about the evolution of language: when you come across theories of language evolution in the literature, or in your discussions in tutorials, or when working on your assessments for this course, or chatting with your friends, you should always be thinking about what kinds of evidence you could use to answer the questions you are interested in. 
 
-Fitch begins with a whirlwind tour of cognitive abilities in animals, such as memory, planning and inference, before moving on to discuss tool use, social intelligence, and animal culture. The general conclusion is that nonhuman animals demonstrate an impressive array of complex cognitive abilities. This has two important implications. First, much of this sophisticated cognition is possible in the absence of language. Second, many capabilities which were previously thought to be uniquely human, such as the use and manufacture of tools, have since been found in nonhuman animals.
+Second, Fitch advocates the use of the **comparative method**: studying a wide range of species in order to gain insights into how the various components of the human capacity for language might have evolved. We will come across lots of comparative data on this course, on the communication systems and socio-cognitive capacities of non-human animals.
 
-The clip below shows a chimpanzee using stone tools to crack open nuts, demonstrating fine motor control and planning:
+Third, in chapter 1 (see e.g. Figure 1.2) Fitch emphasises the role of **cultural and biological evolution**, and interactions between them, in shaping languages and the human capacity for language. We will look in detail at both evolutionary processes on this course, but one of the main contributions of our research here in Edinburgh on language evolution has been to show how fundamental structural properties of language can arise from cultural evolution, so that will take a larger role in the course than it does in Fitch's book.
 
-<!-- [embed]https://www.youtube.com/watch?v=2N34Fcn3J00[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/2N34Fcn3J00"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+## A very brief intro to adaptation and natural selection
 
-These impressive abilities are not only found in species which are closely related to humans. The second clip shows problem solving by a crow: crows are able to use their impressive capacities for memory, planning, innovation and reasoning to complete the task of retrieving an item of food.
+This is intended as a very simplified summary of what natural selection is -- there are also literally dozens of textbooks or web tutorials you could consult. This should form a useful background to understanding Fitch's chapter 2 (and the rest of the course!). FYI, I am working with a textbook called Evolution (they are all called Evolution), by Barton et al -- see below for reference.
 
-<!-- [embed]https://www.youtube.com/watch?v=AVaITA7eBZE[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/AVaITA7eBZE"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+### Adaptation
 
+Everywhere you look in the natural world, you see animals which seem to be exquisitely well-designed for the world they live in: think of the [superb camouflage systems](https://www.boredpanda.com/amazing-wild-animal-camouflage-nature/) of animals like stick-insects or chameleons, or [the beautiful fit between flowers and their pollinators](https://www.youtube.com/watch?v=ge3EM8AERV0), of the ability of animals like camels to or penguins to [survive in extreme heat or extreme cold](http://listverse.com/2013/05/28/10-animal-adaptations-to-hostile-environments/),or the complex construction skills and social systems of [ants](https://www.theguardian.com/science/2014/apr/11/ants-self-organization-quanta) and [termites](http://en.wikipedia.org/wiki/Termite). These cases of apparent design are known as *adaptations* or *adaptive traits* (the process by which adaptations are formed is also known as "adaptation" by the way -- adaptation produces adaptations).
 
-Humans and other animals are also flexible vocal learners. One of the most entertaining examples is the Lyrebird, which is hilariously brilliant at mimicking the sounds in their environment:
+How can we explain adaptations, the appearance of design in life?
+Pre-Darwinian explanations were either theological, or appealed to the idea that organisms changed to fit their environment and somehow passed those changes on to their offspring (e.g. the idea was that if you lifted weights, your kids would inherit some of your acquired strength). These early theories have been replaced by one of the most important scientific ideas in human history: evolution by natural selection. All adaptations are the product of natural selection, and only natural selection leads to adaptation.
 
-<!-- [embed]https://www.youtube.com/watch?v=mSB71jNq-yQ[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/mSB71jNq-yQ"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+### Evolution by natural selection
 
-## Animal Communication
+In this next section I am going to explain what natural selection is,
+and the preconditions for natural selection to occur. The concepts
+should be relatively straightforward, but if you don't know anything
+about natural selection take a look at [this very simple explanation](http://evolution.berkeley.edu/evolibrary/article/evo_25) with nice pictures, then read what follows. All the explanations emphasise the same 
+simple components (variation, variation makes a difference in
+reproduction, variants are passed from parents to offspring). You could also watch a documentary -- the BBC documentary [Charles Darwin and the Tree of Life](http://www.dailymotion.com/video/xsxubk_charles-darwin-and-the-tree-of-life-david-attenborough_shortfilms) (60 minutes) is a great example.
 
-In contrast to the rich internal cognitive world of animals, Fitch argues that their communication systems are relatively impoverished when compared to language. Still, even though we know of no other animal with a communication system provoiding the expressive power offered by all human languages, the communication systems we observe show a great degree of variety in their richness and complexity. For instance, the bengalese finch is capable of producing song with relatively elaborate structures, but which is restricted in its function and lacks propositional content:
+Natural selection is the process by which genotypes with higher fitness increase in frequency in a population, and it arises whenever you have heritable variation in fitness (Barton, 2007). I'll explain what that means, and why it leads to adaptation.
 
-<!-- [embed]https://www.youtube.com/watch?v=rozh349EZWA[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/rozh349EZWA"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+The **genotype** of an individual is that individual's genetic make-up -- the genetic information that determines, through complex interactions with the environment, an individual's **phenotype**: their body, behaviours and other observable characteristics. Genetics and the processes by which genes influence bodies and behaviours are **incredibly complex**, and we don't need to know about them for the purposes of this course, or indeed for understanding how natural selection works (indeed, Darwin knew nothing about genes). The crucial thing is that genes are passed from parent(s) to offspring, via [asexual](http://en.wikipedia.org/wiki/Asexual_reproduction) or [sexual](http://en.wikipedia.org/wiki/Sexual_reproduction) reproduction. If an aspect of an organism's phenotype (say something about its physical appearance, or the behaviours it performs) is determined or influenced by that organism's genes, then that means that that trait is [heritable](http://www.britannica.com/EBchecked/topic/262934/heredity): it can be passed from parent to child. More informally, for heritable traits the offspring will resemble the parent. For instance, you probably physically resemble your parents -- that's because many aspects of your physical appearance are strongly influenced by your genes, and therefore are heritable. Heritability is one of the requirements for natural selection: **traits that can't be passed from parent to offspring can't evolve by natural selection**.
 
-Vervet monkeys use three distinct alarm calls to refer to different predators (see video below). In fact alarm calling systems that work like this are fairly common in the natural world - vervets were the first species for which this was conclusively demonstrated (using an ingenious playback method, where experimenters played them recordings of alarm calls in the absence of predators and watched how they responded), which is why everyone uses them as an example, but they are by no means unique (for instance, chickens have an aerial vs terrestrial predator alarm calling system).
+The second precondition for natural selection is that the population exhibits variation. This is obviously true at the level of phenotypes -- you've probably noticed that people vary in their physical appearance, tastes, abilities and personality, and you can similarly observe variation within any species of animals, insects, or plants (although you might need to be relatively expert to spot it). And at least some of this variation is underpinned by variation at the genetic level: different individuals have different genotypes, and variation in their genes contributes to variation in their bodies and behaviours. This is therefore heritable variation, and heritable variation is required for natural selection to operate: if everybody 'looked the same' (i.e. had the same phenotype), or if the phenotypic variation that existed was not heritable, natural selection would not occur.
 
-<!-- [embed]https://www.youtube.com/watch?v=q8ZG8Dpc8mM[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/q8ZG8Dpc8mM"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+The final requirement for natural selection is that variation matters. In particular, it must matter for **fitness**, which is a technical term referring to the number of offspring an individual has: in order for natural selection to occur, variants must differ in fitness. While you may not have noticed any particularly systematic correspondences between phenotypic variants and fitness in your personal experience, these have been painstakingly explored and mapped out by biologists using observational and experimental techniques (these examples from Barton et al., chapter 19). For instance, biologists might carefully note the size of birds and their probability of survival (it turns out that, at least for some bird species, being too big or too little makes you more likely to die young, and survival is of course a prerequisite for having offspring; somewhat surprisingly, the same link between size and mortality appears to apply in human infants). It's not hard to
+imagine that other heritable traits (i.e physical appearance, physical characteristics, abilities or behaviours) also impact on fitness, the number of offspring you have -- therefore, if there is variation in those traits, we will have heritable variation in fitness: individuals inherit their traits from their parents, different individuals have different traits, and some of those traits are 'better' (in the sense of leading to more offspring) than others.
 
-We also find impressive communicative abilities in some rather surprising organisms. Consider the waggle dance of the honeybee and its ability to convey information about something not currently present (aka [displacement](https://en.wikipedia.org/wiki/Displacement_(linguistics)), one of Hockett's *design features* of language:
+If all of these three components are in place, then natural selection
+ensues. Organisms with high-fitness traits will produce more copies of themselves than organisms with traits with lower fitness (by definition -- remember, "high fitness" means "has lots of offspring", "low fitness" means "has few offspring" ), and over time the population will come to be dominated by traits which are associated with high fitness.  Or, as the definition at the start of this section said, "Natural selection is the process by which genotypes with higher fitness increase in frequency in a population", and this occurs whenever we have heritable variation in fitness.
 
-<!-- [embed]https://www.youtube.com/watch?v=-7ijI-g4jHg[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/-7ijI-g4jHg"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+If you don’t like my explanation of natural selection, find another one! I already pointed you to a very simple explanation above, or you could try this explanation from Ridley (1996), p71-72:
 
-Kanzi, a bonobo (one of two extant species of chimpanzee, the other being the better-known common chimpanzee) raised in captivity, has mastered a large number of arbitrary symbols and can match these symbols with real-world referents:
+“Natural selection is easiest to understand, in the abstract, as a logical argument, leading from premises to conclusion…
 
-<!-- [embed]https://www.youtube.com/watch?v=wRM7vTrIIis[/embed] -->
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/wRM7vTrIIis"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+1. Reproduction.  Entities must reproduce to form a new generation.
+2. Heredity. Offspring must tend to resemble their parents: roughly speaking, “like must produce like.”
+3. Variation in individual characters among members of a population. ...
+4. Variation in the fitness of organisms according to the state they have for a heritable character.  ... individuals in the population with some characters must be more likely to reproduce (i.e. have higher fitness) than others.
 
-Kanzi's use of arbitrary symbols is just one of his many abilities that are beyond anything we observe in wild bonobos and highlights how different environments can unmask latent cognitive abilities. Like some of the other animals in this section, Kanzi's impressive knowledge of vocabulary hints at abilities which are necessary pre-conditions for mastery of language. But Fitch considers language to be fundamentally distinct in two aspects.
+If these conditions are met, for any property or species, natural selection automatically results.  If any conditions are not met, natural selection does not result. ... When all four conditions apply, the entities with the property conferring higher fitness will leave more offspring, and the frequency of that type of entity will increase in the population” .
 
-First, human language is highly **expressive:** it allows us to convey practically any thought that pops into our heads and converse on a range of topics far far larger anything we've witnessed in nonhuman animals. Indeed, animal communication appears to be tailored for very specific needs, such as predator warnings and mating. Second, nonhuman animals are capable of some pretty impressive feats of observing and interpreting the behaviour of others, but they lack the ability to fulfil the second half of what Fitch terms the Gricean contract: to use this knowledge about behaviour to **intentionally inform** other individuals (although some more recent evidence, which I will discuss in the lecture, challenges this).
+Why does natural selection lead to adaptations? My informal definition of an adaptation was that it is a feature of an organism that appears to be well-designed for that organism's environment. A better, more technical definition would be that an adaptation is a trait which functions to increase fitness, and that evolved for that function. Hopefully the link should now make sense: adaptations are traits that make organisms well-designed, i.e. that enable organisms to better survive and reproduce (both of which influence that organism's fitness), and natural selection leads to the accumulation of those sorts of traits in organisms. Since natural selection has been operating for as long as we have had heritable variation in fitness on the planet (which is probably as long as life has existed, i.e. over 3 billion years on earth), we are surrounded by organisms which are the product of many many many millions of years of natural selection -- they have been exquisitely finely-tuned by natural selection.
 
-To wrap up the chapter, Fitch considers why humans are unique in these two respects. The central point is that there are considerable evolutionary barriers to achieving a cheap and honest communication system like language. One of the goals in studying the evolution of language is to try and investigate the circumstances under which humans overcame these limitations.
+## The comparative method
 
-## Additional Notes
-In addition to these general conclusions, there are three points Fitch raises that you should keep in mind when reading:
+Fitch advocates the *comparative method*: comparing the behaviours and abilities of multiple species in order to understand the evolution of human language. If you have studied any historical linguistics then the comparative method in biology will be pretty familiar to you -- linguists have been comparing across languages to figure out what ancestral languages look like, and how languages change, for 200+ years. But if you are unfamiliar with the comparative method from linguistics, you might be wondering: why would studying other apes, monkeys or even whales or birds be useful to understanding human evolution?
 
-**Be cautious when interpreting animal behaviour:** You will see many instances in the chapter where human researchers have over-interpreted or indeed under-interpreted the capacities of nonhuman animals.
+All life on earth shares a [common ancestor](https://en.wikipedia.org/wiki/Last_universal_ancestor): if you trace your parents' parents' parents' parents' parents' ... back far enough (over 3 billion years) you'll come to an organism (a very simple, single-cell affair) who is your ancestor, but also the ancestor of all other humans, all other primates, all other mammals, in fact of all living things on the planet (including all plants, all bacteria and so on). Similarly, if you go back less far in time you can find the last common ancestor of all animals, or [all mammals](https://www.newscientist.com/article/dn23148-meet-our-last-common-mammalian-ancestor/), or [all humans](https://en.wikipedia.org/wiki/Most_recent_common_ancestor#TMRCA_of_all_living_humans) (the person who is the great great great great ... grandparent of all living humans). This is because evolution produces a branching tree of life: populations split, become separated, and eventually accumulate so many changes (including adaptations) that they becomes separate species; those daughter species die out or in turn split into further daughter species, which die off or further split, and so on.
 
-**Evolution is not goal-directed:** Evolution is a blind process that does not have any particular goals in mind. So, when thinking about animal cognition and communication, there is nothing to say that evolution is working toward increasingly complex behaviours (or increasingly human-like behaviours). As Fitch notes, there is considerable evidence that counters the view of an evolutionary ladder, with organisms forming a linear progression from least to most complex.
+Humans are just one leaf of this vast and bushy tree of life, which means that we share varying degrees of relatedness to all the other living things on the planet: the species most closely related to us are now extinct ([you can see some of them here](http://humanorigins.si.edu/evidence/human-family-tree), and we'll talk about them later in the course), but our closest living relatives are [the other hominids](https://en.wikipedia.org/wiki/Hominidae): chimps, gorillas, and orangutans. For example, [our last common ancestor with chimpanzees (the individual who was a great great great ... grandparent of all humans and all chimpanzees) lived around 6 or 7 million years ago](http://www.sci-news.com/othersciences/anthropology/science-homo-pan-last-common-ancestor-03220.html). We are more distantly related to other mammals, other animals, and ultimately (by tracing our way back to our common ancestor) all other living things.
 
-**Descent and Convergence:** The comparative method is a useful tool for elucidating cases of homology and analogy in cognitive and communicative abilities. Employing this method can tell us what features we share with other species because they were present in our last common ancestor (homology, or similarity through descent from a common ancestor) and under what environmental conditions do certain features evolve (analogies, produced by convergent evolution).
+You will probably have noticed many similarities between humans and other hominids (most obviously chimps) -- for starters, they look a lot like us, and many of their social behaviours are reminiscent of the way we behave. [This is because we share many of their genes](http://www.amnh.org/exhibitions/permanent-exhibitions/human-origins-and-cultural-halls/anne-and-bernard-spitzer-hall-of-human-origins/understanding-our-past/dna-comparing-humans-and-chimps/), passed on from parent to child all the way back to our shared ancestral population. Traits shared between species through common ancestry are known as *homologies*, and there are homologous traits between even distantly related species -- for example, if you know where to look there are fairly obvious homologies in [the structure of forelimbs in humans, dogs, whales and birds](https://upload.wikimedia.org/wikipedia/commons/5/5e/Homology_vertebrates-en.svg), in the way in which development works in related species, or in the genes encoding proteins like haemoglobin.
 
-## Reference
-Fitch, W. T. (2010). *The Evolution of Language*. Cambridge: Cambridge University Press.
+This is useful if you are trying to reconstruct the evolutionary history of a trait or ability, because by comparing across closely-related species you can make guesses about what the common ancestor of those species looked like, and how the daughter species diverged. For example, the similarities between humans and other apes (in the shape of our bodies, our social and communicative behaviours) presumably reflect our shared ancestry: the simplest explanation for these shared traits is that we all inherited them from our common ancestral species. Differences between us therefore must have developed after this point of common ancestry, in response to different pressures acting on our species since we separated and occupied different environments and different ecological niches.
+
+Investigating the cognitive capacities of other apes (as we will spend some time doing in this course) therefore provides insights into the evolutionary history of our own species, because it allows us to infer what our ancestral species looked like, how we have changed since then, and what selective pressures might have driven those changes. For instance, in this course we are interested in the evolution of human language: to understand the evolutionary history of language in our species, we'll need to try to figure out what kind of communication systems our ancestral species had (was it a lot like language, or a lot different?), and what selective pressures drove the evolution of the capacity for language in our species but not in closely related species (what were the survival and reproductive pressures made us evolve in the unique way we did?).
+
+The more closely related two species are, the more homologous traits they will share. But studying distantly-related species can also be useful, because of **convergent evolution**, the process by which distantly-related species find similar solutions to similar survival or  reproductive challenges. [Consider the wings of birds and bats](http://evolution.berkeley.edu/evolibrary/article/evo_09). They look similar (at least superficially) and serve the same function (enabling flight), but we know that this similarity is extremely unlikely to be due to descent from a common ancestor (bats and birds are only distantly related, and most of the other species that share the same common ancestor don't have wings, which makes it unlikely that the common ancestor of bats and birds did). This means that flight must have independently evolved in bats and birds -- natural selection discovered the same solution to the same set of environmental challenges (how to avoid predators and/or exploit hard-to-reach food sources) in two separate groups of animals. This is convergent evolution, and it produces **analogies** -- traits that are similar not due to common descent, but to shared selection pressures.  Studying analogous traits provides insights into the selective pressures that lead to the evolution of a particular behaviour or ability. For instance, in the case of language, if we could find an analogous trait in another species, we could try to figure out (by comparing these two species) what environmental or social challenges they share that might have lead
+to convergent evolution of the language-relevant ability in both
+species.
+
+## Cultural evolution
+
+One of the crucial preconditions for evolution by natural selection is heredity: parents must pass their traits on to their offspring in order for those traits to be subject to natural selection. In the sections above I focussed exclusively on heredity that was driven by sexual (or asexual) reproduction: you inherit your genes from your parents, and those genes contribute via some very complex processes to determining what your phenotype looks like and the properties it has.
+
+Genetics of course isn't the only reason why offspring might resemble
+their parents: many of the things you know, the skills you have, and the beliefs that you hold were also inherited from your parents via **learning**. This might have involved explicit teaching (e.g. painstaking lessons on appropriate table manners), but much more of it will have involved much more subtle **observational learning** or **social learning**, where you figured out how to do stuff based on watching your parents in action. And, unlike sexual reproduction, social learning allows you to inherit knowledge, skills and behaviour from people other than your parents: your siblings, your friends, even your own biological offspring (everything I know about video games or Drew Gooden I learnt from my kids).
+
+The catch-all term for behaviours which are passed from individual to individual via learning, imitation, teaching etc is *culture*. Note that this is a technical usage of the term, which is related to but not the same as everyday uses in phrases like "high culture" (e.g. the opera) or "lad culture" (very much not the opera). Culture is clearly a massively important inheritance system for humans -- art, religion, political beliefs, technology, and our huge and varied suite of skills for surviving in the world (think of anything from hunting antelope to crossing a road to programming a computer) are all culturally transmitted, and therefore all aspects of human culture. But we're not the only species who have culture: in fact, because the ability to learn from others is such a handy skill, many species  do social learning, including [chimpanzees](https://www.livescience.com/48078-chimpanzees-learn-behaviors-socially.html), [song birds](https://www.sciencedaily.com/releases/2013/01/130129121937.htm), [orcas](https://www.smithsonianmag.com/science-nature/understanding-orca-culture-12494696/), [rats](http://onlinelibrary.wiley.com/doi/10.1002/dev.420150402/abstract)
+and [fish](http://www.sciencedirect.com/science/article/pii/S0003347296903188).
+
+What has this got to do with language? Firstly, language is culturally transmitted -- you learn the language of your speech community based on exposure to their linguistic behaviour, which means it meets the standard definition of a culturally-transmitted behaviour (it's a behaviour that's passed from person to person via social learning). There are huge debates in the linguistics literature about how exactly language learning works -- is it the unconstrained application of general-purpose learning procedures, or does linguistic input simply trigger latent structures that are prefigured in language learners' brains? -- but nobody doubts the central point that you need linguistic input from other people to end up with a language. Therefore, language  is culturally transmitted.
+
+What's this got to do with evolution, and what does "cultural evolution" mean anyway? Firstly, there are clearly really interesting evolutionary questions about how the capacity for culture evolves. Two paragraphs ago I said "because the ability to learn from others is such a handy skill, many species do social learning" -- in other words, I was claiming that the ability to do social learning is an adaptation (an ability that increases fitness), and therefore the ability to learn from others must be a product of natural selection.
+
+But secondly, knowledge, behaviours and skills which are culturally transmitted *evolve*: they change over time. This is really obvious if you look at how technologies change: they are constantly improving, becoming more powerful, more functional, cheaper to manufacture, and generally better ([I like bikes](https://www.youtube.com/watch?v=5puCTcg-Ars)). But it's also the case for other aspects of culture, including language. Languages change all the time -- we wouldn't want to say that the change from e.g. Old English to present-day English represents an improvement in the same way that present-day technologies are better than those in circulation 1000 years ago, but the fact that the language has changed as it's been passed from generation to generation is undeniable -- this
+is the process that Fitch refers to as *glossogeny*. We'll spend a good chunk of this course talking about cultural evolution, what it does to languages, and how the human capacity for culture might have evolved.
+
+## References
+
+Barton, N. H., et al. (2007). *Evolution*. Cold Spring Harbor, NY: ColdSpring Harbor Laboratory Press.
+
+Fitch, W. T. (2010). *The Evolution of Language.* Cambridge: Cambridge University Press.
+
+Ridley, M. (1996). *Evolution.* Oxford: Blackwell.
 
 ## Re-use
 
