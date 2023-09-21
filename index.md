@@ -29,7 +29,7 @@ Hopefully this goes without saying, but *do not come to lectures or tutorials if
 
 ## Assessment
 
-The course is assessed via 2 essays, due on 26th October and 14th December. Full details will be provided in the assignment brief (to follow) and [FAQ](assessment/origins_assignment_faq.md).
+The course is assessed via 2 essays, due on 26th October and 14th December. Full details will be provided in [the assignment brief](assessment/OriginsAssignmentBrief23.pdf) and [FAQ](assessment/origins_assignment_faq.md).
 
 ## Quizzes
 
@@ -51,7 +51,7 @@ Course content will appear here as we work through the course - I will put mater
 
 Each week there will be two sets of readings: one associated with the lecture, and another for the tutorial.  
 
-Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. **The lecture readings for the first few weeks are from Fitch and are quite substantial, but the volume of lecture prep reading reduces later in the course.** I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures – I will assume you have done in class, and you’ll have to talk about them. As mentioned above, in order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class.
+Lecture readings involves a reading (chapters from Fitch's *Evolution of Language*, or other journal papers/book chapters) plus a blog post introducing the topic and highlighting any important points. **The lecture readings for the first few weeks are from Fitch and are quite substantial, but the volume of lecture prep reading reduces later in the course.** I expect you to do these readings **before** the associated lectures since they provide useful background information and context to what I say in lectures - I will assume you have done in class, and you'll have to talk about them. As mentioned above, in order to encourage you to complete the reading and to allow you to check whether you actually understood it, there is also a quiz to be completed before each class.
 
 For the tutorials you will be asked to read one or more journal papers/book chapters and then turn up prepared to discuss these in tutorials. Tutorials give you the opportunity to clarify points you didn't understand with your classmates, but also discuss interesting points, strengths and weaknesses of the papers, and get some practice critically evaluating research in language evolution. For some weeks you will be asked to read papers that make conflicting claims and then use the tutorial time to debate the merits of the two approaches with your classmates.
 
@@ -85,7 +85,7 @@ No classes this week - the first assignment is due on the Thursday of the follow
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
 
-### Week 7 (30th October): Evolution of speech, vocal learning
+### Week 7 (30th October): Evolution of speech, vocal learning, grammar learning
 - [Lecture pre-reading](origins_reading_wk7.md)
 - Lecture slides to appear
 - Tutorial reading and instructions to appear
