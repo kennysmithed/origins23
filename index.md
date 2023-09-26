@@ -105,7 +105,7 @@ No classes this week - the first assignment is due on the Thursday of the follow
 - Lecture slides to appear
 - [Tutorial reading and instructions](origins_tutorial_wk10.md)
 
-### ### Not taught due to loss of time through strike action:  Gene-culture co-evolution
+### Not taught due to loss of time through strike action:  Gene-culture co-evolution
 - [Lecture pre-reading](origins_reading_wkna.md)
 
 
