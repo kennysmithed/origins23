@@ -11,9 +11,9 @@ Motamedi et al (2021) reports an iterated learning experiment where we tested to
 
 You will need to be on the University network to access the Senghas paper via the direct link below - the Motamedi et al. paper should be fully open access. Read at least one of these papers.
 
-[Senghas, A. (2003). Intergenerational influence and ontogenetic development in the emergence of spatial grammar in Nicaraguan Sign Language. <i>Cognitive Development, 18,</i> 511-531.](https://doi.org/10.1016/j.cogdev.2003.09.006) 
-
 [Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., & Kirby, S. (2021). The emergence of systematic argument distinctions in artificial sign languages. <i>Journal of Language Evolution, 6,</i> 77-98.](https://doi.org/10.1093/jole/lzab002)
+
+[Senghas, A. (2003). Intergenerational influence and ontogenetic development in the emergence of spatial grammar in Nicaraguan Sign Language. <i>Cognitive Development, 18,</i> 511-531.](https://doi.org/10.1016/j.cogdev.2003.09.006) 
 
 Thinking about the following questions might help you as you read the papers and discuss with your tutorial group:
 - What is spatial modulation? Why do these authors focus on it?
