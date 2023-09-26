@@ -5,9 +5,7 @@ description: Gene-culture co-evolution
 
 This week of the course was lost as a result of losing week 2 to strike action.
 
-*As usual, read this blog, do the reading, and then take the quiz on Top Hat to test your understanding.*
-
-In this final lecture, I am going to talk about gene-culture co-evolution, and how it relates to language. The reading for this week is Chapter 7 of Laland & Brown (2011). We have multiple copies of this book in the library (make sure you get the 2011 second edition, rather than the 2002 first edition), or you can download this chapter from Learn (under Course Materials, I have put it near the top so you can find it easily). 
+In this final lecture, I am going to talk about gene-culture co-evolution, and how it relates to language. The reading for this week is Chapter 7 of Laland & Brown (2011). We have multiple copies of this book in the library (make sure you get the 2011 second edition, rather than the 2002 first edition), or you can download this chapter from Learn (near the bottom of the main page). 
 
 [Kevin Lala](https://lalandlab.wp.st-andrews.ac.uk/current-lab-members/) (formerly Kevin Laland) and [Gillian Brown](https://gillianbrown.wp.st-andrews.ac.uk) are based at St Andrews, in biology and psychology respectively; they both do fascinating work on how genes and culture interact to shape behaviour and cognition in humans and other animals. Their 2011 book provides an overview of  a group of related scientific approaches (sociobiology, human behavioural ecology, evolutionary psychology, cultural evolution, gene-culture co-evolution) based on the idea that we can explain human behaviour/cognition in evolutionary terms. We are dipping in for their summary of the last of these approaches, but they do mention the others at the start of the chapter (particularly sociobiology), so I'll describe them very briefly below to give you the flavour, and if you want to know more you can read the appropriate chapter. I'll also flag up a couple of areas of the chapter you can skim over.
 
