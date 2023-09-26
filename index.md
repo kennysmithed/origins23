@@ -43,7 +43,7 @@ In order to encourage you to complete the reading and to allow you (and me) to c
 
 ### In-class quizzes
 
-We will use multiple-choice questions in class to stimulate discussion - we will use wooclap for these. To particpate during the lectures go to [wooclap.com](wooclap.com) and enter the event code provided.
+We will use multiple-choice questions in class to stimulate discussion - we will use wooclap for these. To participate during the lectures go to [wooclap.com](wooclap.com) and enter the event code provided.
 
 ## Course Materials
 
