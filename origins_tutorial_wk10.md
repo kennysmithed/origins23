@@ -5,9 +5,7 @@ description: The role of children in sign language emergence
 
 In this week's lecture we talked about sign language as a potential window into the origins and evolution of language. This week's readings give you a sample of the debate in the literature on the role of child learners in sign language emergence - you can guess where I stand on this from the readings, but you should as usual form your own opinion based on what you have read and how persuasive you find the arguments and evidence!
 
-Senghas (2003) is by [Ann Senghas](https://barnard.edu/profiles/ann-senghas), who as mentioned in the main reading for this week has done pioneering work on Nicaraguan Sign Language. In this paper she emphasises the role of child learners in the emergence of grammatical devices in Nicaraguan Sign Language.
-
-Motamedi et al (2021) reports an iterated learning experiment where we tested to see if we could get spatial marking of arguments to emerge in the absence of child learners, just as a result of adults learning and using a miniature sign language repeatedly.
+Senghas (2003) emphasises the role of child learners in the emergence of grammatical devices in Nicaraguan Sign Language. Motamedi et al. (2021) reports an iterated learning experiment where we tested to see if we could get spatial marking of arguments to emerge in the absence of child learners, just as a result of adults learning and using a miniature sign language repeatedly.
 
 You will need to be on the University network to access the Senghas paper via the direct link below - the Motamedi et al. paper should be fully open access. Read at least one of these papers.
 

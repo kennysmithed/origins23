@@ -11,7 +11,7 @@ The references for the two readings are below - as usual these are available via
 
 Botha, R. (2010). On the soundness of inferring modern language from symbolic behaviour. <i>Cambridge Archaeological Journal, 20,</i> 345-356. [Available online from the University network](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_journals_755047641) - just click "read article" near the top. 
 
-Henshilwood, C.S. & Dubreuil, B. (2009). Reading the artefacts: Gleaning language skills from the Middle Stone Age in southern Africa. In R. Botha & C. Knight (Eds.), <i>The Cradle of Language<i> (pp. 41-60). Oxford: Oxford University Press. [Available online from the University network](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentralchapters_7033936_12_60) - you can access the whole book from one of those links and if necessary scroll down the table of contents to find this chapter.
+Henshilwood, C.S. & Dubreuil, B. (2009). Reading the artefacts: Gleaning language skills from the Middle Stone Age in southern Africa. In R. Botha & C. Knight (Eds.), <i>The Cradle of Language</i> (pp. 41-60). Oxford: Oxford University Press. [Available online from the University network](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_ebookcentralchapters_7033936_12_60) - you can access the whole book from one of those links and if necessary scroll down the table of contents to find this chapter.
 
 
 ## Re-use

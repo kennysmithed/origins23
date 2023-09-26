@@ -9,7 +9,7 @@ The readings are below - as usual, these should be freely accessible from these 
 
 [Herrmann, E., Call, C., Hernandez-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: the cultural intelligence hypothesis. <i>Science, 317</i>, 1360-1366.](http://www.sciencemag.org/content/317/5843/1360.full.pdf)
 
-[Heyes, C. M., & Frith, C. D. (2014). The cultural evolution of mind reading. <i>Science, 344</i>, 1243091.](https://www.science.org/doi/pdf/10.1126/science.1243091?siteid=sci&keytype=ref&ijkey=3ZSpKAWpRHVbg) You can also to listen to [a short podcast about this article.](https://users.ox.ac.uk/~ascch/Podcasts/Heyes%20CEMR%20podcast.mp3), or [Celia Heyes' plenary at CogSci 2020](https://www.youtube.com/watch?v=fTxK2RDotrg).
+[Heyes, C. M., & Frith, C. D. (2014). The cultural evolution of mind reading. <i>Science, 344</i>, 1243091.](https://www.science.org/doi/pdf/10.1126/science.1243091?siteid=sci&keytype=ref&ijkey=3ZSpKAWpRHVbg) You can also to listen to [a short podcast about this article](https://users.ox.ac.uk/~ascch/Podcasts/Heyes%20CEMR%20podcast.mp3), or watch [Celia Heyes' plenary at CogSci 2020](https://www.youtube.com/watch?v=fTxK2RDotrg).
 
 Thinking about the following questions might help you as you read the papers and discuss with your tutorial group:
 
