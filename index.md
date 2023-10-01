@@ -68,7 +68,7 @@ There are no classes in week 2 due to strike action.
 ### Week 3 (2nd October): Natural selection, adaptation, and the evolution of language
 
 - [Lecture pre-reading](origins_reading_wk3.md)
-- Lecture slides to appear
+- [Lecture slides](slides/origins_lecture_wk3.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk3.md)
 
 ### Week 4 (9th October): Intention and structure in animal communication
