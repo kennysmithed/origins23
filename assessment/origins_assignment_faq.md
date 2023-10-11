@@ -10,7 +10,7 @@ Yes! Here are two strong essays from an earlier version of the course, plus the 
 
 ## Is the word limit strict?
 
-Yes it is.
+Yes it is - we will deduct marks if you go over the word limit.
 
 ## Does the word limit include the references section?
 
@@ -18,11 +18,15 @@ No it doesn't - we don't want to penalise you for reading and citing lots of rel
 
 ## Does the word limit include footnotes?
 
-Yes it does - I never want to read a 1500 word essays with 5000 words of footnotes.
+Yes it does - I never want to read a 1500 word essay with 5000 words of footnotes.
+
+## Do I have to use a certain font, margin width, or line spacing?
+
+No, just pick something that is readable for us!
 
 ## Should I put the question number and full question I am answering at the top of my essay?
 
-Yes that is a good idea - and (although it's only a few words) you don't have to include the question number and question wording when calculating your word count. Putting the full question at the top of your essay is a good idea for two reasons. Firstly, it removes any ambiguity for your marker as to what question you are attempting to answer - in extreme cases this ambiguity can be really hard for us to resolve, which can lead to a low mark. Secondly, it's also a really good reminder to you that *your essay should be answering a question*, rather than taking an aimless ramble through the literature, so putting the question right at the top helps you focus on doing that.
+Yes that is a good idea - and (although it's only a few words) you don't have to include the question number and question wording when calculating your word count. Putting the full question at the top of your essay is a good idea for two reasons. Firstly, it removes any ambiguity for your marker as to what question you are attempting to answer - in extreme cases this ambiguity can be really hard for us to resolve, which can lead to a low mark. Secondly, it's also a really good reminder to you that *your essay should be answering a question*, rather than taking an aimless ramble through the literature. Anecdotally, I have noticed that essays that don't do a good job of answering the question and (and therefore receive a low mark) often don't include the question at the top - putting the question right at the top is a simple trick that helps you focus on answering that question, and avoiding this pitfall.
 
 ## Re-use
 
