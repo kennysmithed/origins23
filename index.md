@@ -82,7 +82,7 @@ No classes this week - the first assignment is due on the Thursday of the follow
 
 ### Week 6 (23rd October): Social learning and cumulative cultural evolution
 - [Lecture pre-reading](origins_reading_wk6.md)
-- Lecture slides to appear
+- [Lecture slides](slides/origins_lecture_wk6.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk6.md)
 
 ### Week 7 (30th October): Evolution of speech, vocal learning, grammar learning
