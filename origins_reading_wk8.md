@@ -3,7 +3,7 @@ title: Week 8 pre-lecture reading
 description: The evolution of social cognition
 ---
 
-*As usual, read this blog, do the reading, and then take the quiz on Top Hat to test your understanding.*
+*As usual, read this blog, do the reading, and then take the quiz on Learn to test your understanding.*
 
 This week we want you to read [Woensdregt & Smith (2017)](papers/woensdregt_2017_pragmatics.pdf). The first author, [Marieke Woensdregt](https://marieke-woensdregt.github.io), is a postdoc at the MPI in Nijmegen, but did her PhD with me back in the day, working on computational models of language the co-evolution of theory of mind.
 
