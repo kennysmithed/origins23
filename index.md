@@ -92,7 +92,7 @@ No classes this week - the first assignment is due on the Thursday of the follow
 
 ### Week 8 (6th November): Evolution of social cognition
 - [Lecture pre-reading](origins_reading_wk8.md)
-- Lecture slides to appear
+- [Lecture slides](slides/origins_lecture_wk8.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk8.md)
 
 ### Week 9 (13th November): Cultural evolution of language
