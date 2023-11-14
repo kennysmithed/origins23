@@ -20,12 +20,13 @@ The other thing you have to do in this tutorial is agree a rota for who will rea
 - Why does he make a big deal about the idea that language involves many genes?
 - Do you buy his argument? What are the convincing points? What are the weaknesses?
 
-
 ## References
 
 Pinker, S. (2003). Language as an adaptation to the cognitive niche. In M. Christiansen & S. Kirby (Eds.), *Language Evolution* (pp. 16-37). Oxford: Oxford University Press. [Link](https://stevenpinker.com/files/pinker/files/language_evolution.pdf)
 
 NB. the link goes to a copy of the chapter that Pinker has put online - if you want to chase up a reference you can also access the whole book, including the references, [via Discover Ed](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_proquest_miscellaneous_37697167).
+
+NB. Pinker uses the term "retarded" a few times - while this was at one point a scientific term it is now widely considered to be offensive and its use has been discontinued in the last 10-15 years (see e.g. [here](https://en.wikipedia.org/wiki/Retard_(pejorative)), which also includes mention of other similar terms which have fallen out of scientific use due to their perjorative connotations), being replaced with less loaded terms like "intellectual disability". You should therefore not use this term in your discussion or essays.
 
 ## Re-use
 
