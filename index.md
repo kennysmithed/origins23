@@ -102,7 +102,7 @@ No classes this week - the first assignment is due on the Thursday of the follow
 
 ### Week 10 (20th November): Sign language as a window into language origins
 - [Lecture pre-reading](origins_reading_wk10.md)
-- Lecture slides to appear
+- [Lecture slides](slides/origins_lecture_wk10.pdf)
 - [Tutorial reading and instructions](origins_tutorial_wk10.md)
 
 ### Not taught due to loss of time through strike action:  Gene-culture co-evolution
